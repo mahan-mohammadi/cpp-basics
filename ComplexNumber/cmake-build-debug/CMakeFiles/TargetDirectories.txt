@@ -1,0 +1,3 @@
+C:/Users/ThinkPad P50/CLionProjects/templates/cmake-build-debug/CMakeFiles/templates.dir
+C:/Users/ThinkPad P50/CLionProjects/templates/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ThinkPad P50/CLionProjects/templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
