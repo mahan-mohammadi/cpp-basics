@@ -7,13 +7,13 @@ int main() {
     cout << "Please enter a number: ";
     cin >> num;
     int savedNum1=num;
-    int savedNum2=num;
+
 
     while (savedNum1) {
         sum += savedNum1%10 * (savedNum1%10) * (savedNum1%10) ;
         savedNum1/=10;
     }
-    if (sum == savedNum2) {
+    if (sum == num) {
         cout << num << " is a armstrong number" << endl;
     }
     else {
