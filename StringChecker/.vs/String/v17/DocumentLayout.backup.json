@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkPad P50\\source\\repos\\String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC8BCF4-9639-490F-A6B7-75E1CFCD673F}|String\\String.vcxproj|C:\\Users\\ThinkPad P50\\source\\repos\\String\\String\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AC8BCF4-9639-490F-A6B7-75E1CFCD673F}|String\\String.vcxproj|solutionrelative:String\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "String.cpp",
+              "DocumentMoniker": "C:\\Users\\ThinkPad P50\\source\\repos\\String\\String\\String.cpp",
+              "RelativeDocumentMoniker": "String\\String.cpp",
+              "ToolTip": "C:\\Users\\ThinkPad P50\\source\\repos\\String\\String\\String.cpp",
+              "RelativeToolTip": "String\\String.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T07:59:40.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
