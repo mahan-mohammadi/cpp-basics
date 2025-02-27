@@ -1,5 +1,4 @@
 
-// it doesnt work for some reason
 #include <iostream>
 #include <string>
 using namespace std;
