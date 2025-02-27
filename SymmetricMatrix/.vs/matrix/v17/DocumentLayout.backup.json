@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkPad P50\\source\\repos\\matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F2E6D5-CCA6-4229-8FE6-60560DEE2B39}|matrix\\matrix.vcxproj|C:\\Users\\ThinkPad P50\\source\\repos\\matrix\\matrix\\matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69F2E6D5-CCA6-4229-8FE6-60560DEE2B39}|matrix\\matrix.vcxproj|solutionrelative:matrix\\matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\ThinkPad P50\\source\\repos\\matrix\\matrix\\matrix.cpp",
+              "RelativeDocumentMoniker": "matrix\\matrix.cpp",
+              "ToolTip": "C:\\Users\\ThinkPad P50\\source\\repos\\matrix\\matrix\\matrix.cpp*",
+              "RelativeToolTip": "matrix\\matrix.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T09:20:39.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
