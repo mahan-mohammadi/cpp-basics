@@ -7,18 +7,21 @@ int main(){
     int rows;
     cout << "Enter the number of rows: ";
     cin >> rows;
-    // add option to handle row =1
-    int arr[SIZE][SIZE];
+    int arr[SIZE][SIZE] = { 0 };
     cout << endl;
+    if(rows<1)
+		cout << "invalid" << endl;
     for (int i = 1; i <= rows; i++) {
         for (int j = 1; j <= rows; j++) {
             if (i == j) {
                 continue;
             }
-            int state;
+            int state=0;
             cout << "Is there a path between two vertices (" << i << "," << j << ") If there is, enter the number 1, otherwise, enter the number 0: ";
-            // add input validation later
-            cin >> state;
+			do
+            {
+                cin >> state;
+            } while (state != 1 && state != 0);
             arr[i][j] = state;
         }
     }
