@@ -24,7 +24,10 @@ int main()
     cout << "\nYour equation is ====>   0 = " << a << "(x^2) + " << b << "(x) + " << c << endl;
 
     delta = b * b - 4 * a * c;
-    if (delta > 0) {
+    if(a==0){
+    	cout << "Not a valid input. A cannot be zero" << endl;
+	}
+    else if (delta > 0) {
         cout << "\nIt has two answers" << endl;
         answer1 = (-b + sqrt(delta)) / (2 * a);
         answer2 = (-b - sqrt(delta)) / (2 * a);
