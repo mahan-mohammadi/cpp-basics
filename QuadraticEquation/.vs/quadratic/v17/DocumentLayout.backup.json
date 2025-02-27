@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkPad P50\\source\\repos\\quadratic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED70A5C2-A3E1-4FF8-94F3-F56DBCF0BD7D}|quadratic\\quadratic.vcxproj|C:\\Users\\ThinkPad P50\\source\\repos\\quadratic\\quadratic\\quadratic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED70A5C2-A3E1-4FF8-94F3-F56DBCF0BD7D}|quadratic\\quadratic.vcxproj|solutionrelative:quadratic\\quadratic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quadratic.cpp",
+              "DocumentMoniker": "C:\\Users\\ThinkPad P50\\source\\repos\\quadratic\\quadratic\\quadratic.cpp",
+              "RelativeDocumentMoniker": "quadratic\\quadratic.cpp",
+              "ToolTip": "C:\\Users\\ThinkPad P50\\source\\repos\\quadratic\\quadratic\\quadratic.cpp",
+              "RelativeToolTip": "quadratic\\quadratic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T08:53:27.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
