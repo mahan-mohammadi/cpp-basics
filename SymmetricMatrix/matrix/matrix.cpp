@@ -6,7 +6,7 @@ int main()
 {
     int size;
     bool isSymemetric = true;
-    int matrix[MAX][MAX];
+    int matrix[MAX][MAX]={0};
 
     cout << "Enter the size of the matrix: ";
     cin >> size;
