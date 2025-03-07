@@ -10,10 +10,15 @@ int stringlen(char s[]) {
 int main()
 {
     char str[500];
+    cout << "enter your main string: ";
     cin >> str;
+
     char f[100];
+    cout << "enter the string you want to find: ";
     cin >> f;
+
     char r[100];
+    cout << "enter the string you want to replace it with: ";
     cin >> r;
 
     int strl = stringlen(str);
@@ -23,7 +28,6 @@ int main()
     int i = 0;
     int j = 0;
     int firstindex = -1;
-    
     int shift = rl-fl;
 
     while (str[i]) {
@@ -51,17 +55,15 @@ int main()
             for (int k = 0; k < rl; k++) {
                 str[firstindex + k] = r[k];
             }
-            
             strl += shift;
             str[strl] = '\0';
             i = firstindex  + rl;
             
         }
-        if(!found)
+        else
             i++;
         
     }
-
     cout << str;
 
 }
